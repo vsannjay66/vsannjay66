@@ -58,6 +58,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/techstack.gif" width="100%" />
-</p>
