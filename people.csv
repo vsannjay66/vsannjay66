@@ -1,164 +1,54 @@
-Code,Symbol,Name
-AED,د.إ,United Arab Emirates d
-AFN,؋,Afghan afghani
-ALL,L,Albanian lek
-AMD,AMD,Armenian dram
-ANG,ƒ,Netherlands Antillean gu
-AOA,Kz,Angolan kwanza
-ARS,$,Argentine peso
-AUD,$,Australian dollar
-AWG,Afl.,Aruban florin
-AZN,AZN,Azerbaijani manat
-BAM,KM,Bosnia and Herzegovina 
-BBD,$,Barbadian dollar
-BDT,৳ ,Bangladeshi taka
-BGN,лв.,Bulgarian lev
-BHD,.د.ب,Bahraini dinar
-BIF,Fr,Burundian franc
-BMD,$,Bermudian dollar
-BND,$,Brunei dollar
-BOB,Bs.,Bolivian boliviano
-BRL,R$,Brazilian real
-BSD,$,Bahamian dollar
-BTC,฿,Bitcoin
-BTN,Nu.,Bhutanese ngultrum
-BWP,P,Botswana pula
-BYR,Br,Belarusian ruble (old)'
-BYN,Br,Belarusian ruble
-BZD,$,Belize dollar
-CAD,$,Canadian dollar
-CDF,Fr,Congolese franc
-CHF,CHF,Swiss franc
-CLP,$,Chilean peso
-CNY,¥,Chinese yuan
-COP,$,Colombian peso
-CRC,₡,Costa Rican colón
-CUC,$,Cuban convertible peso')
-CUP,$,Cuban peso
-CVE,$,Cape Verdean escudo
-CZK,Kč,Czech koruna
-DJF,Fr,Djiboutian franc
-DKK,DKK,Danish krone
-DOP,RD$,Dominican peso
-DZD,د.ج,Algerian dinar
-EGP,EGP,Egyptian pound
-ERN,Nfk,Eritrean nakfa
-ETB,Br,Ethiopian birr
-EUR,€,Euro
-FJD,$,Fijian dollar
-FKP,£,Falkland Islands pound')
-GBP,£,Pound sterling
-GEL,₾,Georgian lari
-GGP,£,Guernsey pound
-GHS,₵,Ghana cedi
-GIP,£,Gibraltar pound
-GMD,D,Gambian dalasi
-GNF,Fr,Guinean franc
-GTQ,Q,Guatemalan quetzal
-GYD,$,Guyanese dollar
-HKD,$,Hong Kong dollar
-HNL,L,Honduran lempira
-HRK,kn,Croatian kuna
-HTG,G,Haitian gourde
-HUF,Ft,Hungarian forint
-IDR,Rp,Indonesian rupiah
-ILS,₪,Israeli new shekel
-IMP,£,Manx pound
-INR,₹,Indian rupee
-IQD,ع.د,Iraqi dinar
-IRR,﷼,Iranian rial
-IRT,تومان,Iranian toman
-ISK,kr.,Icelandic króna
-JEP,£,Jersey pound
-JMD,$,Jamaican dollar
-JOD,د.ا,Jordanian dinar
-JPY,¥,Japanese yen
-KES,KSh,Kenyan shilling
-KGS,сом,Kyrgyzstani som
-KHR,៛,Cambodian riel
-KMF,Fr,Comorian franc
-KPW,₩,North Korean won
-KRW,₩,South Korean won
-KWD,د.ك,Kuwaiti dinar
-KYD,$,Cayman Islands dollar
-KZT,₸,Kazakhstani tenge
-LAK,₭,Lao kip
-LBP,ل.ل,Lebanese pound
-LKR,රු,Sri Lankan rupee
-LRD,$,Liberian dollar
-LSL,L,Lesotho loti
-LYD,ل.د,Libyan dinar
-MAD,د.م.,Moroccan dirham
-MDL,MDL,Moldovan leu
-MGA,Ar,Malagasy ariary
-MKD,ден,Macedonian denar
-MMK,Ks,Burmese kyat
-MNT,₮,Mongolian tögrög
-MOP,P,Macanese pataca
-MRU,UM,Mauritanian ouguiya
-MUR,₨,Mauritian rupee
-MVR,.ރ,Maldivian rufiyaa
-MWK,MK,Malawian kwacha
-MXN,$,Mexican peso
-MYR,RM,Malaysian ringgit
-MZN,MT,Mozambican metical
-NAD,N$,Namibian dollar
-NGN,₦,Nigerian naira
-NIO,C$,Nicaraguan córdoba
-NOK,kr,Norwegian krone
-NPR,₨,Nepalese rupee
-NZD,$,New Zealand dollar
-OMR,ر.ع.,Omani rial
-PAB,B/.,Panamanian balboa
-PEN,S/,Sol
-PGK,K,Papua New Guinean kina')
-PHP,₱,Philippine peso
-PKR,₨,Pakistani rupee
-PLN,zł,Polish złoty
-PRB,р.,Transnistrian ruble
-PYG,₲,Paraguayan guaraní
-QAR,ر.ق,Qatari riyal
-RON,lei,Romanian leu
-RSD,рсд,Serbian dinar
-RUB,₽,Russian ruble
-RWF,Fr,Rwandan franc
-SAR,ر.س,Saudi riyal
-SBD,$,Solomon Islands dollar')
-SCR,₨,Seychellois rupee
-SDG,ج.س.,Sudanese pound
-SEK,kr,Swedish krona
-SGD,$,Singapore dollar
-SHP,£,Saint Helena pound
-SLL,Le,Sierra Leonean leone
-SOS,Sh,Somali shilling
-SRD,$,Surinamese dollar
-SSP,£,South Sudanese pound
-STN,Db,São Tomé and Príncipe d
-SYP,ل.س,Syrian pound
-SZL,L,Swazi lilangeni
-THB,฿,Thai baht
-TJS,ЅМ,Tajikistani somoni
-TMT,m,Turkmenistan manat
-TND,د.ت,Tunisian dinar
-TOP,T$,Tongan paʻanga
-TRY,₺,Turkish lira
-TTD,$,Trinidad and Tobago doll
-TWD,NT$,New Taiwan dollar
-TZS,Sh,Tanzanian shilling
-UAH,₴,Ukrainian hryvnia
-UGX,UGX,Ugandan shilling
-USD,$,United States (US) dolla
-UYU,$,Uruguayan peso
-UZS,UZS,Uzbekistani som
-VEF,Bs F,Venezuelan bolívar
-VES,Bs.S,Bolívar soberano
-VND,₫,Vietnamese đồng
-VUV,Vt,Vanuatu vatu
-WST,T,Samoan tālā
-XAF,CFA,Central African CFA fr
-XCD,$,East Caribbean dollar
-XOF,CFA,West African CFA franc
-XPF,Fr,CFP franc
-YER,﷼,Yemeni rial
-ZAR,R,South African rand
-ZMW,ZK,Zambian kwacha
+"Acme Corp is a Organization. A global software solutions company."
+"Sales is a Department. Handles all sales and client relations."
+"Customer Support is a Department. Provides technical and customer support."
+"Marketing is a Department. Responsible for advertising, campaigns, and lead generation."
+"IT Department is a Department. Manages infrastructure, security, and development."
+"Human Resources is a Department. Manages employee onboarding, payroll, and benefits."
+"Alice Johnson is a Person. Their role is Sales Manager. They belong to the Sales department."
+"Bob Lee is a Person. Their role is Support Engineer. They belong to the Customer Support department."
+"Clara Smith is a Person. Their role is Marketing Lead. They belong to the Marketing department."
+"David Kim is a Person. Their role is Software Engineer. They belong to the IT Department department."
+"Emily Brown is a Person. Their role is HR Specialist. They belong to the Human Resources department."
+"Salesforce is a Tool. Customer relationship management platform used for sales and client tracking."
+"Zoho Desk is a Tool. Helpdesk software used for managing customer tickets and support workflows."
+"Slack is a Tool. Collaboration and communication tool for team messaging and file sharing."
+"Jira is a Tool. Tool for issue tracking and agile project management."
+"GitHub is a Tool. Platform for version control and collaboration using Git."
+"Power BI is a Tool. Data visualization tool used for business intelligence and reporting."
+"Zendesk is a Tool. Customer service software for managing support tickets and interactions."
+"Customer Tickets is a Dataset."
+"Sales Opportunities is a Dataset."
+"Marketing Campaigns is a Dataset."
+"Employee Records is a Dataset."
+"Bug Reports is a Dataset."
+"Financial Reports is a Dataset."
+"Alice Johnson uses Salesforce."
+"Bob Lee uses Zoho Desk."
+"Clara Smith uses Slack."
+"David Kim uses GitHub."
+"David Kim uses Jira."
+"Emily Brown uses Power BI."
+"Sales integrates with Salesforce."
+"Customer Support integrates with Zoho Desk."
+"Marketing integrates with Slack."
+"IT Department integrates with GitHub."
+"IT Department integrates with Jira."
+"Human Resources integrates with Power BI."
+"Salesforce produces Sales Opportunities."
+"Zoho Desk produces Customer Tickets."
+"Jira produces Bug Reports."
+"Power BI produces Financial Reports."
+"Slack supports IT Department."
+"Sales Opportunities linked to Customer Tickets. Sales opportunities linked to support tickets."
+"Marketing Campaigns influences Sales Opportunities. Marketing campaigns generate new sales leads."
+"Employee Records impacts Financial Reports. HR salaries impact financial reports."
+"Bug Reports correlates with Customer Tickets. Technical issues reported by customers."
+"IT Department collaborates with Customer Support."
+"Sales collaborates with Marketing."
+"Human Resources requests support from IT Department."
+"Alice Johnson works with Clara Smith."
+"Bob Lee assists David Kim."
+"Emily Brown manages onboarding for Alice Johnson."
+"David Kim updates Bug Reports."
+"Clara Smith creates Marketing Campaigns."
+"Emily Brown maintains Employee Records."
